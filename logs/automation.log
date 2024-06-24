@@ -1,0 +1,73 @@
+2024-06-24 19:18:20 INFO  Utils:112 - [TestNG] Running:
+  C:\SELENIUM24-5-24\openCart-v1.0\grouping.xml
+
+2024-06-24 19:19:52 INFO  Utils:112 - [TestNG] Running:
+  C:\SELENIUM24-5-24\openCart-v1.0\grouping.xml
+
+2024-06-24 19:21:51 INFO  Utils:112 - [TestNG] Running:
+  C:\SELENIUM24-5-24\openCart-v1.0\testng.xml
+
+2024-06-24 19:22:11 INFO  Utils:112 - [TestNG] Running:
+  C:\SELENIUM24-5-24\openCart-v1.0\grouping.xml
+
+2024-06-24 19:24:42 INFO  Utils:112 - [TestNG] Running:
+  C:\SELENIUM24-5-24\openCart-v1.0\testng.xml
+
+2024-06-24 19:24:59 INFO  TC_002_LoginTest:15 - *** Started TC_002_LoginTest ***
+2024-06-24 19:25:00 INFO  TC_002_LoginTest:23 - Login page
+2024-06-24 19:25:02 INFO  TC_002_LoginTest:30 - My Account Page
+2024-06-24 19:25:02 INFO  TC_002_LoginTest:41 - **** Finished TC_002_LoginTest  ****
+2024-06-24 19:25:09 INFO  TC_01_AccountRegistrationPage:16 - ***Statred TC_01_AccountRegistrationPage ****** 
+2024-06-24 19:25:09 INFO  TC_01_AccountRegistrationPage:22 - Clicked on MyAccount Link.. 
+2024-06-24 19:25:10 INFO  TC_01_AccountRegistrationPage:25 - Clicked on Register Link.. 
+2024-06-24 19:25:10 INFO  TC_01_AccountRegistrationPage:29 - Providing customer details...
+2024-06-24 19:25:12 INFO  TC_01_AccountRegistrationPage:44 - Validating expected message..
+2024-06-24 19:25:12 INFO  TC_01_AccountRegistrationPage:48 - Test passed
+2024-06-24 19:25:12 INFO  TC_01_AccountRegistrationPage:59 - ***** Finished TC_01_AccountRegistrationPage *****
+2024-06-24 19:25:57 INFO  Utils:112 - [TestNG] Running:
+  C:\SELENIUM24-5-24\openCart-v1.0\grouping.xml
+
+2024-06-24 19:26:06 INFO  TC_002_LoginTest:15 - *** Started TC_002_LoginTest ***
+2024-06-24 19:26:06 INFO  TC_002_LoginTest:23 - Login page
+2024-06-24 19:26:08 INFO  TC_002_LoginTest:30 - My Account Page
+2024-06-24 19:26:08 INFO  TC_002_LoginTest:41 - **** Finished TC_002_LoginTest  ****
+2024-06-24 19:26:15 INFO  TC_01_AccountRegistrationPage:16 - ***Statred TC_01_AccountRegistrationPage ****** 
+2024-06-24 19:26:15 INFO  TC_01_AccountRegistrationPage:22 - Clicked on MyAccount Link.. 
+2024-06-24 19:26:16 INFO  TC_01_AccountRegistrationPage:25 - Clicked on Register Link.. 
+2024-06-24 19:26:16 INFO  TC_01_AccountRegistrationPage:29 - Providing customer details...
+2024-06-24 19:26:18 INFO  TC_01_AccountRegistrationPage:44 - Validating expected message..
+2024-06-24 19:26:18 INFO  TC_01_AccountRegistrationPage:48 - Test passed
+2024-06-24 19:26:18 INFO  TC_01_AccountRegistrationPage:59 - ***** Finished TC_01_AccountRegistrationPage *****
+2024-06-24 19:30:04 INFO  TC_002_LoginTest:15 - *** Started TC_002_LoginTest ***
+2024-06-24 19:30:05 INFO  TC_002_LoginTest:23 - Login page
+2024-06-24 19:30:20 INFO  TC_002_LoginTest:30 - My Account Page
+2024-06-24 19:30:30 INFO  TC_002_LoginTest:41 - **** Finished TC_002_LoginTest  ****
+2024-06-24 19:30:36 INFO  TC_01_AccountRegistrationPage:16 - ***Statred TC_01_AccountRegistrationPage ****** 
+2024-06-24 19:30:37 INFO  TC_01_AccountRegistrationPage:22 - Clicked on MyAccount Link.. 
+2024-06-24 19:30:38 INFO  TC_01_AccountRegistrationPage:25 - Clicked on Register Link.. 
+2024-06-24 19:30:38 INFO  TC_01_AccountRegistrationPage:29 - Providing customer details...
+2024-06-24 19:30:40 INFO  TC_01_AccountRegistrationPage:44 - Validating expected message..
+2024-06-24 19:30:40 INFO  TC_01_AccountRegistrationPage:48 - Test passed
+2024-06-24 19:30:40 INFO  TC_01_AccountRegistrationPage:59 - ***** Finished TC_01_AccountRegistrationPage *****
+2024-06-24 19:32:37 INFO  TC_002_LoginTest:15 - *** Started TC_002_LoginTest ***
+2024-06-24 19:32:38 INFO  TC_002_LoginTest:23 - Login page
+2024-06-24 19:32:40 INFO  TC_002_LoginTest:30 - My Account Page
+2024-06-24 19:32:40 INFO  TC_002_LoginTest:41 - **** Finished TC_002_LoginTest  ****
+2024-06-24 19:32:46 INFO  TC_01_AccountRegistrationPage:16 - ***Statred TC_01_AccountRegistrationPage ****** 
+2024-06-24 19:32:46 INFO  TC_01_AccountRegistrationPage:22 - Clicked on MyAccount Link.. 
+2024-06-24 19:32:48 INFO  TC_01_AccountRegistrationPage:25 - Clicked on Register Link.. 
+2024-06-24 19:32:48 INFO  TC_01_AccountRegistrationPage:29 - Providing customer details...
+2024-06-24 19:32:50 INFO  TC_01_AccountRegistrationPage:44 - Validating expected message..
+2024-06-24 19:32:50 INFO  TC_01_AccountRegistrationPage:48 - Test passed
+2024-06-24 19:32:50 INFO  TC_01_AccountRegistrationPage:59 - ***** Finished TC_01_AccountRegistrationPage *****
+2024-06-24 23:30:22 INFO  TC_002_LoginTest:15 - *** Started TC_002_LoginTest ***
+2024-06-24 23:30:23 INFO  TC_002_LoginTest:23 - Login page
+2024-06-24 23:30:27 INFO  TC_002_LoginTest:30 - My Account Page
+2024-06-24 23:30:27 INFO  TC_002_LoginTest:41 - **** Finished TC_002_LoginTest  ****
+2024-06-24 23:30:37 INFO  TC_01_AccountRegistrationPage:16 - ***Statred TC_01_AccountRegistrationPage ****** 
+2024-06-24 23:30:37 INFO  TC_01_AccountRegistrationPage:22 - Clicked on MyAccount Link.. 
+2024-06-24 23:30:39 INFO  TC_01_AccountRegistrationPage:25 - Clicked on Register Link.. 
+2024-06-24 23:30:39 INFO  TC_01_AccountRegistrationPage:29 - Providing customer details...
+2024-06-24 23:30:41 INFO  TC_01_AccountRegistrationPage:44 - Validating expected message..
+2024-06-24 23:30:42 INFO  TC_01_AccountRegistrationPage:48 - Test passed
+2024-06-24 23:30:42 INFO  TC_01_AccountRegistrationPage:59 - ***** Finished TC_01_AccountRegistrationPage *****
